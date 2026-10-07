@@ -7,4 +7,5 @@
         }
       },
     "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "cmake.sourceDirectory": "/home/kali/my-repository/cw02/src",
 }
